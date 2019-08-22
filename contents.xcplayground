@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground target-platform="ios" requires-full-environment="false" version="6.0">
+    <pages>
+        <page name="Let’s Fold an Origami Crane!"/>
+    </pages>
+</playground>

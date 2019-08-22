@@ -1,0 +1,76 @@
+{
+    "origami": [
+        {
+            "name": "Square",
+            "instructions": "Starting the color side down, take the square paper and fold the paper 4 times in the directions as showned in the diagram. Each fold needs to be creased well and opened again.",
+            "resource_names": ["Square","Square_A","Square_B","Square_C","Square_D","Square_E","Square_F","Square_G","Square_H","Square_I"],
+            "sub_directory": "Diagrams/Square",
+            "step_no": 1,
+            "coreml_class": "square"
+        },
+        {
+            "name": "Square Base",
+            "instructions": "Using these creases, bring the left, top and right corners of the paper and bring it down to the bottom corner, flattening it.",
+            "resource_names": ["Square_Base_1A","Square_Base_1B","Square_Base_1C"],
+            "sub_directory": "Diagrams/Square_Base",
+            "step_no": 2,
+            "coreml_class": "square_base"
+        },
+        {
+            "name": "Petal (1)",
+            "instructions": "Fold the traiagular flaps to the center of the model, then unfold. Turn the model around, and repeat. Fold the top downwards, seen in the diagram.",
+            "resource_names": ["Petal_1A","Petal_1B","Petal_1C","Petal_1D","Petal_1E","Petal_1F"],
+            "sub_directory": "Diagrams/Petal",
+            "step_no": 3,
+            "coreml_class": "petal_1"
+        },
+        {
+            "name": "Petal (2)",
+            "instructions": "Take the bottom corner of the upper flap and bring it upwards. Use the creases as a guide. Press the sides of the model inwards and crease well",
+            "resource_names": ["Petal_2A","Petal_2B","Petal_2C"],
+            "sub_directory": "Diagrams/Petal",
+            "step_no": 4,
+            "coreml_class": "petal_2"
+        },
+        {
+            "name": "Petal (3)",
+            "instructions": "Rotate the model, and repeat the same steps.",
+            "resource_names": ["Petal_3A","Petal_3B","Petal_3C","Petal_3D","Petal_3E"],
+            "sub_directory": "Diagrams/Petal",
+            "step_no": 5,
+            "coreml_class": "petal_3"
+        },
+        {
+            "name": "Crane (1)",
+            "instructions": "Fold the upper most flaps to the center and crease well.",
+            "resource_names": ["Crane_1A","Crane_1B"],
+            "sub_directory": "Diagrams/Crane",
+            "step_no": 6,
+            "coreml_class": "crane_1"
+        },
+        {
+            "name": "Crane (2)",
+            "instructions": "Rotate the model and repeat the same steps.",
+            "resource_names": ["Crane_2A","Crane_2B","Crane_2C"],
+            "sub_directory": "Diagrams/Crane",
+            "step_no": 7,
+            "coreml_class": "crane_2"
+        },
+        {
+            "name": "Crane (3)",
+            "instructions": "Fold the 'legs' of the model upwards with a reverse fold as seen in the diagram",
+            "resource_names": ["Crane_3A","Crane_3B","Crane_3C","Crane_3D"],
+            "sub_directory": "Diagrams/Crane",
+            "step_no": 8,
+            "coreml_class": "crane_3"
+        },
+        {
+            "name": "Crane (4)",
+            "instructions": "Do another reverse fold, but on one side of the model, to create its head.",
+            "resource_names": ["Crane_4A","Crane_4B"],
+            "sub_directory": "Diagrams/Crane",
+            "step_no": 9,
+            "coreml_class": "crane_4"
+        }
+    ]
+}
